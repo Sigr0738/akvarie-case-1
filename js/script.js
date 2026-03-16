@@ -2,7 +2,7 @@
 let score = 0;
 let maxScore = 100;
 
-function updateProgress()
+let = updateProgress
 
 
 
